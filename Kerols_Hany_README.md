@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Kerols%20Hany&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Flutter%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Kerols%20Hany&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Flutter%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="#">
