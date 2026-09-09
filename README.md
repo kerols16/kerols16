@@ -25,7 +25,7 @@ class KerolsHany extends MobileDeveloper {
   final String role     = "Android & Flutter Developer";
   final String location = "Cairo, Egypt";
   final String degree   = "B.Sc. Computer Science, Thebes Academy (2026)";
-  final int    projects = 4; // and counting...
+  final int    projects = 5; // and counting...
 
   @override
   List<String> get passions => [
@@ -40,7 +40,7 @@ class KerolsHany extends MobileDeveloper {
 }
 ```
 
-Android & Flutter developer with a B.Sc. in Computer Science from Thebes Academy (graduated June 2026). Completed a 6-month DEPI internship building apps from scratch, and built **EduManage** as a graduation project — a full-scale multi-role school management system serving 5 user roles with 50+ REST API endpoints. Proficient in MVVM, BLoC/Cubit, Retrofit, Dio, and Room, with a strong focus on clean architecture, offline support, and maintainable code.
+Android & Flutter developer with a B.Sc. in Computer Science from Thebes Academy (graduated June 2026). Completed a 6-month DEPI internship building apps from scratch, and built **EduManage** as a graduation project — a full-scale multi-role school management system serving 5 user roles with 50+ REST API endpoints. Most recently architected **Tamrinak App**, a full-featured offline-first workout tracking ecosystem built with Clean Architecture and Hive/Firebase sync. Proficient in MVVM, BLoC/Cubit, Clean Architecture, Retrofit, Dio, and Room, with a strong focus on offline support and maintainable code.
 
 ---
 
@@ -61,6 +61,9 @@ Android & Flutter developer with a B.Sc. in Computer Science from Thebes Academy
 ![Bloc](https://img.shields.io/badge/BLoC%2FCubit-764ABC?style=for-the-badge&logo=flutter&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-00C853?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-FF7043?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-5C6BC0?style=for-the-badge)
+![GetIt](https://img.shields.io/badge/GetIt-DI-673AB7?style=for-the-badge)
+![go_router](https://img.shields.io/badge/go__router-01579B?style=for-the-badge)
 
 ### 🌐 Networking
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
@@ -71,6 +74,10 @@ Android & Flutter developer with a B.Sc. in Computer Science from Thebes Academy
 ![Room](https://img.shields.io/badge/Room-4CAF50?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge)
+
+### 🌍 Localization
+![l10n](https://img.shields.io/badge/l10n%2Fi18n-ARB-009688?style=for-the-badge)
 
 ### 🧰 Tools
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -106,6 +113,7 @@ Android & Flutter developer with a B.Sc. in Computer Science from Thebes Academy
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🏋️ **Tamrinak App** | Offline-first workout tracking ecosystem with a dynamic split engine and Firestore sync | Flutter · Clean Architecture · BLoC/Cubit · Hive · Firebase · GetIt · l10n |
 | 🎓 **EduManage** | Multi-role school management system (5 roles, 50+ REST endpoints) | Flutter · BLoC/Cubit · Dio · Laravel API · GetIt |
 | 🍔 **Meals App** | Full food-ordering experience with offline caching | Kotlin · MVVM · Retrofit · Room |
 | 🎬 **Movies App** | Live movie browsing with offline favourites | Flutter · Provider · SQLite · Dio |
