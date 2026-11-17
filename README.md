@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Kerols+Hany+Rauf&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&rotate=0&strokeWidth=0&desc=Mobile+Application+Developer&descSize=35&descAlign=50&descAlignY=57" width="100%"/>
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=ADFFFF&center=true&width=435&lines=Android+%26+Flutter+Developer;Native+Android+%7C+Kotlin+%26+Compose;Cross-Platform+%7C+Flutter+%26+Dart;MVVM+%7C+BLoC+%2F+Cubit;Clean+Architecture+%26+Offline-First;REST+APIs%2C+Firebase+%26+JWT;Unit+Testing+%26+CI;Open+to+Work+%7C+Cairo+%2F+Remote" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=ffffFF&center=true&vCenter=true&width=550&height=25&lines=Android+%26+Flutter+Developer;Native+Android+%7C+Kotlin+%26+Compose;Cross-Platform+%7C+Flutter+%26+Dart;MVVM+%7C+BLoC+%2F+Cubit;Clean+Architecture+%26+Offline-First;REST+APIs%2C+Firebase+%26+JWT;Unit+Testing+%26+CI;Open+to+Work+%7C+Cairo+%2F+Remote" alt="Typing SVG" /></a>
 
 <br/>
 
